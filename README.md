@@ -29,3 +29,27 @@ Os valores devem ser mostrados na mesma linha, separados por um espaço em branc
 | ------------------ | ---------------- |
 | 5                  | 0 1 1 2 3        |
 
+##### 
+
+## 2 / 3 - Exibindo Números Pares
+
+** Básico		** Princípios Básicos
+
+------
+
+#### Desafios
+
+Crie um programa que leia um número e mostre os números pares até esse número, inclusive ele mesmo.
+
+#### Entrada
+
+Você receberá 1 valor inteiro **N**, onde **N > 0**.
+
+#### Saída
+
+Exiba todos os números pares até o valor de entrada, sendo um em cada linha. 
+
+| Exemplo de Entrada | Exemplo de Saída |
+| ------------------ | ---------------- |
+| 6                  | 2 4 6            |
+
